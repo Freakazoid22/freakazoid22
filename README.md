@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Daniel and I'm a fresh graduate computer science major.
+
+- 🔭 I’m currently looking for a job related to my degree.
+- 🌱 I’m currently training my skills in different frameworks and new programming languages to expand my coding abilities.
+
 <!--
 **Freakazoid22/freakazoid22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
